@@ -1,0 +1,30 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+mbed-cli = "*"
+mbed-cloud-sdk = "*"
+mbed-ls = "*"
+mbed-host-tests = "*"
+mbed-greentea = "*"
+mercurial = "*"
+utensor-cgen = "*"
+tensorflow = "==1.13.1"
+jsonschema = "*"
+pyelftools = "*"
+#beautifulsoup4 = "*"
+#manifest-tool = "*"
+#icetea = "*"
+#pycryptodome = "*"
+#pyusb = "*"
+#hidapi = "*"
+#cmsis-pack-manager = "*"
+#psutil = "*"
+#cryptography = "*"
+
+[requires]
+python_version = "3.7"
