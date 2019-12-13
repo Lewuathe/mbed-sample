@@ -2,7 +2,4 @@
 
 #include <stdint.h>
 
-const int inline_a_0 [ 1 ] = {  1,  };
-#include <stdint.h>
-
-const int inline_b_0 [ 1 ] = {  2,  };
+const int inline_a_0 [ 4 ] = {  1,  2,  3,  4,  };
